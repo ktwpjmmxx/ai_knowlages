@@ -1,2 +1,2 @@
-# ai_knowlages
+# ai_knowlage
 AIやハードウェアについて得た知識を備忘録として保存
